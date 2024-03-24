@@ -1,2 +1,4 @@
+![Chatbot](https://img.freepik.com/premium-photo/chatbot-3d-illustration-concept-web-app-using-nlp-engage-conversation_1995-873.jpg)
+
+## About:
 For using software applications, user interfaces that can be used includes command line, graphical user interface (GUI), menu driven, form-based, natural language, etc. The mainstream user interfaces include GUI and web-based, but occasionally the need for an alternative user interface arises. A chatbot based conversational user interface fits into this space. The chatbot is a class of bots that have existed in the chat platforms. The user can interact with them via graphical interfaces or widgets, and the trend is in this direction. Chat bots are an intelligent system being developed using machine learning (ML) and natural language processing (NLP) algorithms. It has an effective user interface and answers the queries related to examination cell, admission, academics, users’ attendance and grade point average, placement cell and other miscellaneous activities
-![image](https://github.com/Elite-Solutions-2024/ChatBot/assets/94432528/65b19ca5-1748-46aa-8138-4ef6e4a43a5b)
